@@ -64,7 +64,7 @@ Analyze the dataset by using Pandas functions to answer the following questions:
 4. Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
    Again using a bar chart found in the code, the average highest atmospheric pressure month on Mars was
    month 9 while the lowest pressure month on Mars was month 6.
-5. About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
+5. About how many terrestrial (Earth) days exist in a Martian year?   
    By creating a plot where we plotted martian days versus minimum temperature on Mars, the graph creates
    a sinuisoidal shape. With this plot, by following the cycle and change in temperature over time the
    visualization showed that a Martian year is 600-700 days long. 
