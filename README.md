@@ -58,7 +58,7 @@ Analyze the dataset by using Pandas functions to answer the following questions:
    12 months
 2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
    1867 days
-3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
+3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? 
    Using a bar chart found in the code, the average coldest month on Mars was month 3 and the average warmest
    month on Mars was month 8.
 4. Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
